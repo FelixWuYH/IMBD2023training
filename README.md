@@ -5,9 +5,9 @@
 ### 1.[題目分析](https://github.com/FelixWuYH/IMBD2023training/tree/main/1.題目分析/README.md)
 * [GPT4重點摘要2023](https://chat.openai.com/share/d7313350-7078-4bb5-9f1f-0050bf3a85c1)
 
-### 2.資料串接
+### 2.[資料串接](https://github.com/FelixWuYH/IMBD2023training/tree/main/2.資料串接/README.md)
 
-### 練習1.
+### 練習1.資料串接(與資料清理)
 ---
 ## 10:00 去年對比、特徵擷取
 ### 3.去年對比
