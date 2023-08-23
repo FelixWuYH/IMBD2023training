@@ -1,5 +1,5 @@
 # IMBD2023training
-training camp for IMBD2023
+*training camp for IMBD2023*
 ---
 ## 09:00 初賽題目分析、時序資料串接
 ### 一、初賽題目分析
