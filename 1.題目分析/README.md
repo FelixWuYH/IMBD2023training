@@ -8,8 +8,8 @@
 - [產線一](https://github.com/FelixWuYH/IMBD2023training/blob/main/1.%E9%A1%8C%E7%9B%AE%E5%88%86%E6%9E%90/View2Line1.png)
 - [產線二](https://github.com/FelixWuYH/IMBD2023training/blob/main/1.%E9%A1%8C%E7%9B%AE%E5%88%86%E6%9E%90/View2Line2.png)
 #### 1-2.prediction.[csv](https://github.com/FelixWuYH/IMBD2023training/blob/main/1.題目分析/prediction.csv)
-
-#### 1-3.anomaly_train.[csv](https://github.com/FelixWuYH/IMBD2023training/blob/main/1.題目分析/anomaly.csv)
+* 預測各爐的異常燈管總數
+#### 1-3.anomaly_train.[csv](https://github.com/FelixWuYH/IMBD2023training/blob/main/1.題目分析/anomaly_train.csv)
 
 #### 1-4.power.[csv](https://github.com/FelixWuYH/IMBD2023training/blob/main/1.題目分析/power.csv)
 
