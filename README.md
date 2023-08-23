@@ -2,7 +2,7 @@
 *training camp for IMBD2023*
 ---
 ## 09:00 題目分析、資料串接
-### 1.題目分析
+### 1.[題目分析](https://github.com/FelixWuYH/IMBD2023training/tree/main/1.題目分析/README.md)
 *. [GPT4重點摘要](https://chat.openai.com/share/d7313350-7078-4bb5-9f1f-0050bf3a85c1)
 
 ### 2.資料串接
