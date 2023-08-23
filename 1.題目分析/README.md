@@ -34,6 +34,6 @@ ___
 ![產線二](https://github.com/FelixWuYH/IMBD2023training/blob/main/1.%E9%A1%8C%E7%9B%AE%E5%88%86%E6%9E%90/View2Dot2.png)
 ___
 #### 1-4.power.[csv](https://github.com/FelixWuYH/IMBD2023training/blob/main/1.題目分析/power.csv)
-
+* 每個爐層的燈管功率總和可能是造成異常燈管的物理因素，可以由累積使用時數推算。
 #### 1-5.cooler.[csv](https://github.com/FelixWuYH/IMBD2023training/blob/main/1.題目分析/cooler.csv)
-
+* 每個爐層都有唯一的水冷板進水流量、入水溫度、迴水溫度及AB點水溫，須經過計算得到特徵。
